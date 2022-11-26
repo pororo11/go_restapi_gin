@@ -1,0 +1,6 @@
+package mian
+
+
+func main(){
+
+}
